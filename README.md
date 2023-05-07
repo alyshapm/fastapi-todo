@@ -6,6 +6,7 @@ This repository contains a FastAPI-based API for a To-do list app. The API allow
 Frontend and database components are still under development!.
 
 ## API endpoints
+![endpoints](docs/endpoints.png)
 
 ## 👩‍💻 Run locally
 
